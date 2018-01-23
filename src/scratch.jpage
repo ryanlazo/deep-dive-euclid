@@ -1,0 +1,4 @@
+edu.cnm.deepdive.Math.gcd(26, 39)
+edu.cnm.deepdive.Math.gcd(26, 0)
+edu.cnm.deepdive.Math.gcd(0, 0)
+edu.cnm.deepdive.Math.gcd(1234567890L, 9876543210L)
